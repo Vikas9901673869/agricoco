@@ -4,3 +4,10 @@ env/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Exclude video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+videos/
